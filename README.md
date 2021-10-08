@@ -7,8 +7,8 @@
 
 <div align="center">
   <a href="https://github.com/Luiz-ACavalcante">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luiz-ACavalcante&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luiz-ACavalcante&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Luiz-ACavalcante&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luiz-ACavalcante&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
   ##
@@ -31,4 +31,4 @@ target="_blank"></a>
   <a href="https://api.whatsapp.com/send?phone=5511989295644" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" 
 target="_blank"></a> 
 </div>
-##
+
