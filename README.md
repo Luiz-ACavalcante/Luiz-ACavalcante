@@ -5,6 +5,8 @@
 - 🏫 Estudande de ADS
 - 🤔 Procurando conhecimentos !!!
 
+  ##
+
 <div align="center">
   <a href="https://github.com/Luiz-ACavalcante">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luiz-ACavalcante&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
